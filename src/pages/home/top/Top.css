@@ -1,0 +1,12 @@
+.top {
+  max-width: 1210px;
+  margin: 40px auto 0 auto;
+  padding: 20px;
+}
+
+@media (max-width: 420px) {
+  .top .swiper-button-prev,
+  .top .swiper-button-next {
+    display: none !important;
+  }
+}

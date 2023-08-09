@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  -webkit-tap-highlight-color: rgba(255, 255, 255, 0) !important;
+  -webkit-focus-ring-color: rgba(255, 255, 255, 0) !important;
+  outline: none !important;
+}
+@font-face {
+  font-family: gil-light;
+  src: url(./assets/fonts/Gilroy-Light.woff2);
+}
+@font-face {
+  font-family: gil-reg;
+  src: url(./assets/fonts/Gilroy-Regular.woff2);
+}
+@font-face {
+  font-family: gil-med;
+  src: url(./assets/fonts/Gilroy-Medium.woff2);
+}
+@font-face {
+  font-family: gil-semi;
+  src: url(./assets/fonts/Gilroy-Semibold.woff2);
+}
+@font-face {
+  font-family: gil-bold;
+  src: url(./assets/fonts/Gilroy-Bold.woff2);
+}
+:root {
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}

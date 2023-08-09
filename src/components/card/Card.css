@@ -1,0 +1,105 @@
+.shop_card {
+  height: auto;
+  overflow: hidden;
+  border-radius: 5px;
+}
+.shop_img {
+  position: relative;
+  width: 100%;
+  height: 201px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  background: var(--white, #fff);
+}
+.shop_img img {
+  height: 140px;
+  transition: scale 0.3s;
+}
+.shop_card:hover .shop_img img {
+  scale: 1.04;
+}
+.shop_sale {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  color: var(--white, #fff);
+  font-family: gil-bold;
+  font-size: 14px;
+  padding: 3px 7px;
+  border-radius: 12.5px;
+  text-transform: lowercase;
+}
+.shop_sale.red {
+  background: var(--red, #eb5757);
+}
+.shop_sale.blue {
+  background: rgba(47, 128, 237, 1);
+}
+.shop_sale.orange {
+  background: rgba(242, 153, 74, 1);
+}
+.shop_text {
+  padding: 16px 25px 16px 12px;
+  background: var(--white, #fff);
+}
+.shop_text h1 {
+  height: 60px;
+  color: var(--text, #333);
+  font-family: gil-bold;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+.shop_price1 {
+  color: var(--33333333, #808080);
+  font-family: gil-med;
+  font-size: 12px;
+  line-height: 19.2px;
+  text-decoration-line: line-through;
+}
+.shop_price2 {
+  color: var(--text, #333);
+  font-family: gil-bold;
+  font-size: 18px;
+  margin-bottom: 32px;
+}
+.shop_buttons {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.shop_button {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding: 6px 25px;
+  border-radius: 5px;
+  cursor: pointer;
+  background: var(--green, #2fb946);
+  border: none;
+  &:hover {
+    background: #2aaa3f !important;
+  }
+}
+.shop_button span {
+  color: #fff;
+  font-family: gil-bold;
+  font-size: 16px;
+  line-height: 25.6px;
+}
+.shop_fav {
+  width: 42px;
+  height: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  cursor: pointer;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  &:hover {
+    background-color: #ebebeb;
+  }
+}

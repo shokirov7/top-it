@@ -1,0 +1,144 @@
+.modal {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: all 3s;
+}
+.modal_close {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: none;
+  color: #fff;
+  font-size: 14px;
+  font-stretch: wider;
+  background: #2fb946;
+  cursor: pointer;
+  position: absolute;
+  top: 17px;
+  right: 17px;
+  &:hover {
+    background-color: #2aaa3f;
+  }
+}
+.modal_close.active {
+  background-color: #fff;
+  color: #000;
+  &:hover {
+    background-color: #f7f7f7;
+  }
+}
+.modal.active {
+  opacity: 1;
+  z-index: 33;
+}
+.modal_content {
+  position: relative;
+  width: 492px;
+  background-color: #fff;
+}
+.modal_top {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.modal_top_block1,
+.modal_top_block2 {
+  padding: 20px 60px;
+  color: var(--text, #333);
+  font-family: gil-bold;
+  font-size: 18px;
+  color: #fff;
+  border-radius: 0px 0 7px 0;
+  background: #2fb946;
+  cursor: pointer;
+}
+.modal_top_block2 {
+  border-radius: 0px 0 0 7px;
+}
+.modal_top_block1.active {
+  background-color: #fff;
+  color: #000;
+  border-radius: 0px 0 0px 0px;
+}
+.modal_top_block2.active {
+  background-color: #fff;
+  color: #000;
+  border-radius: 0 0 0 0px;
+}
+.modal_holder {
+  position: relative;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 20px;
+  padding: 60px;
+}
+.modal_holder input {
+  padding: 11px 15px;
+  color: var(--2-daraja, #626364);
+  font-family: gil-reg;
+  font-size: 16px;
+  line-height: 25.6px;
+  border-radius: 3px;
+  border: 1px solid var(--stoce, #d8dce2);
+  background: var(--white, #fff);
+  &:focus {
+    outline: none;
+  }
+  &:focus-visible {
+    outline: none;
+  }
+}
+.form_submit {
+  width: 166px;
+  height: 46px;
+  color: var(--white, #fff);
+  font-family: gil-bold;
+  font-size: 18px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  background: var(--green, #2fb946);
+  &:hover {
+    background: #2aaa3f;
+  }
+}
+.form_submit.pending {
+  background: #2aaa3f;
+  color: #e7e7e7;
+}
+.form_error {
+  position: absolute;
+  bottom: 10%;
+  font-family: gil-med;
+  color: rgb(203, 61, 61);
+}
+
+@media (max-width: 535px) {
+  .modal_content {
+    width: 85%;
+  }
+  .modal_holder {
+    padding: 30px;
+  }
+  .modal_top_block1,
+  .modal_top_block2 {
+    padding: 20px 30px;
+  }
+}
+
+@media (max-width: 425px) {
+  .modal_top_block1,
+  .modal_top_block2 {
+    padding: 20px 20px;
+  }
+}

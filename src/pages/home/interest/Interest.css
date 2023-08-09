@@ -1,0 +1,12 @@
+.interest {
+  max-width: 1210px;
+  margin: 40px auto 0 auto;
+  padding: 20px;
+}
+
+@media (max-width: 420px) {
+  .interest  .swiper-button-prev,
+  .interest  .swiper-button-next {
+    display: none !important;
+  }
+}
