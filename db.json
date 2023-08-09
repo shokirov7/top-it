@@ -1,0 +1,161 @@
+{
+  "all": [
+    {
+      "id": 2234,
+      "img": "https://www.creditasia.uz/upload/iblock/98b/smartfon-samsung-galaxy-a41-sm-a415f-dsn-64gb-black-2.jpg",
+      "img2": "https://www.creditasia.uz/upload/iblock/6fd/smartfon-samsung-galaxy-a41-sm-a415f-dsn-64gb-black-3.jpg",
+      "img3": "https://www.creditasia.uz/upload/iblock/898/smartfon-samsung-galaxy-a41-sm-a415f-dsn-64gb-black-5.jpg",
+      "title": "Смартфон Samsung Galaxy A41 4/64Gb Black",
+      "price1": "7 000 000 сум",
+      "price2": "2 864 000 cум",
+      "type": "Новый",
+      "sale": 50,
+      "made": "Китай",
+      "size": "69.8x149.9x7.9 мм",
+      "brand": "Samsung",
+      "model": "A41",
+      "weight": "152г",
+      "colour": "Черный"
+    },
+    {
+      "id": 364,
+      "img": "https://mini-io-api.texnomart.uz/catalog/product/878/87805/167433/3ff85714-2d1a-479f-aff2-64e4cabe9c80.jpg",
+      "img2": "https://mini-io-api.texnomart.uz/catalog/product/878/87805/167434/00f0d77e-3bb2-4b89-b324-8bbb2dd5f3a6.jpg",
+      "img3": "https://mini-io-api.texnomart.uz/catalog/product/878/87805/167436/2d8b65f7-e70e-4448-89e4-d6c896c0cbfd.jpg",
+      "title": "Ноутбук HP Envy 13-aq1007ur 8PQ04EA",
+      "price1": "7 000 000 сум",
+      "price2": "11 747 000 cум",
+      "made": "Китай",
+      "brand": "HP",
+      "size": "363.4 х 19.9 х 250.5 мм",
+      "model": "Envy 13",
+      "weight": "1.27кг",
+      "colour": "Серый"
+    },
+    {
+      "id": 304,
+      "img": "https://www.nikon.ru/imported/images/web/EU/products/digital-cameras/coolpix/b500/nikon_coolpix_compact_camera_b500_black_hero--original.png",
+      "img2": "https://www.nikon.ru/imported/images/web/EU/products/digital-cameras/coolpix/b500/nikon_coolpix_compact_camera_b500_black_back_left_lcd_02--original.png",
+      "img3": "https://www.nikon.ru/imported/images/web/EU/products/digital-cameras/coolpix/b500/nikon_coolpix_compact_camera_b500_black_front_right--original.png",
+      "title": "Компактные фотоаппараты Nikon b500",
+      "price1": "7 000 000 сум",
+      "price2": "2 749 000 cум",
+      "type": "Есть в наличии",
+      "made": "Япония",
+      "brand": "Nikon",
+      "size": "195 x 270 x 450 мм",
+      "model": "b500",
+      "weight": "542г",
+      "colour": "Черный"
+    },
+    {
+      "id": 324,
+      "img": "https://catalog.milliykatalogi.uz/s3/med/34edaf89-bbb3-1e50-d66d-746e30e0ff58.jpg",
+      "img2": "https://premier.uz/files/global/Product%5D/WASHING%20MACHINE/8%20%D0%BA%D0%B3%201412/2.1.png",
+      "img3": "https://connect-nano.uz/storage/products/October2021/UzbOwbZzrmoWbUBkEA6W.jpg",
+      "title": "Стиральная машина с сушкой PRM-80MD-1412 PR/W",
+      "price1": "7 000 000 сум",
+      "price2": "8 700 000 cум",
+      "made": "Узбекистан",
+      "brand": "Premier",
+      "size": "595 x 470 x 850 мм",
+      "model": "VSF-80MD",
+      "weight": "65кг",
+      "colour": "Белый"
+    },
+    {
+      "id": 854,
+      "img": "https://cdn2.domotekhnika.ru/images/products/006/275/183/big/20701647_2.jpg",
+      "img2": "https://zoodmall.com/cdn-cgi/image/w=500,fit=contain,f=auto/https://images.zoodmall.com/cloudinary/9c/658/https%253A%252F%252Fimages.samsung.com%252Fis%252Fimage%252Fsamsung%252Fkz-ru-me88sutbw-me88sut-bw-lperspectivesilver-127446533%253F%2524684_547_PNG%2524",
+      "img3": "https://www.creditasia.uz/upload/iblock/43f/mikrovolnovaya-pech-samsung-me88sut-bw-1.jpg",
+      "title": "Микроволновая печь Black/Gray",
+      "price1": "7 000 000 сум",
+      "price2": "2 864 000 cум",
+      "type": "Под заказ",
+      "sale": 50,
+      "made": "Китай",
+      "brand": "Samsung",
+      "size": "489 x 275 x 313 мм",
+      "model": "VSF-80MD",
+      "weight": "13.5кг",
+      "colour": "Cерый"
+    },
+    {
+      "id": 304,
+      "img": "https://www.nikon.ru/imported/images/web/EU/products/digital-cameras/coolpix/b500/nikon_coolpix_compact_camera_b500_black_hero--original.png",
+      "img2": "https://www.nikon.ru/imported/images/web/EU/products/digital-cameras/coolpix/b500/nikon_coolpix_compact_camera_b500_black_back_left_lcd_01--original.png",
+      "img3": "https://www.nikon.ru/imported/images/web/EU/products/digital-cameras/coolpix/b500/nikon_coolpix_compact_camera_b500_black_front_right--original.png",
+      "title": "Компактные фотоаппараты Nikon b500",
+      "price1": "7 000 000 сум",
+      "price2": "2 749 000 cум",
+      "type": "Есть в наличии",
+      "made": "Япония",
+      "brand": "Nikon",
+      "size": "195 x 270 x 450 мм",
+      "model": "b500",
+      "weight": "542г",
+      "colour": "Черный"
+    },
+    {
+      "id": 6704,
+      "img": "https://mediapark.uz/_next/image?url=https%3A%2F%2Fcdn.newmediapark.uz%2Fimages%2F3189e519-556b-40cb-92c0-348f9825363d_test.jpg&w=640&q=75",
+      "img2": "https://mediapark.uz/_next/image?url=https%3A%2F%2Fcdn.newmediapark.uz%2Fimages%2F26eb3eb5-8a3d-4b40-b20c-274a8d0b6c20_test.jpg&w=640&q=75",
+      "img3": "https://mediapark.uz/_next/image?url=https%3A%2F%2Fcdn.newmediapark.uz%2Fimages%2Fdfe29c05-81de-4559-b250-95ce1b629ab1_test.jpg&w=640&q=75",
+      "title": "Артель телевизор со скидкой до 50%",
+      "sale": 50,
+      "price1": "7 000 000 сум",
+      "price2": "3 500 000 cум",
+      "type": "Есть в наличии",
+      "made": "Узбекистан",
+      "brand": "Artel",
+      "size": "714,6 x 1230 x 74,2",
+      "model": " UA43H1400",
+      "weight": "7.38кг",
+      "colour": "Черный"
+    },
+    {
+      "id": 6704,
+      "img": "https://img.archiexpo.com.ru/images_ae/photo-g/708-7917689.jpg",
+      "img2": "https://img.archiexpo.com.ru/images_ae/photo-mg/708-7917687.jpg",
+      "img3": "https://img.archiexpo.com.ru/images_ae/photo-g/708-7917688.jpg",
+      "title": "Газовая плита Samsung со скидкой до 50%",
+      "sale": 50,
+      "price1": "7 000 000 сум",
+      "price2": "3 500 000 cум",
+      "type": "Есть в наличии",
+      "made": "Китай",
+      "brand": "Samsung",
+      "size": "714,6 x 1230 x 74,2",
+      "model": " FX13H0",
+      "weight": "100кг",
+      "colour": "Серый"
+    }
+  ],
+  "about": [
+    {
+      "img": "./src/assets/img/icon1.svg",
+      "title": "Покупка в рассрочку",
+      "desc": "Удобная онлайн рассрочка на товары бытовой техники в ТОП-ИТ"
+    },
+    {
+      "img": "./src/assets/img/icon2.svg",
+      "title": "Бесплатная доставка",
+      "desc": "Условия доставки товаров в ТОП-ИТ"
+    },
+    {
+      "img": "./src/assets/img/icon3.svg",
+      "title": "Гарантия на товары",
+      "desc": "Узнайте всё о гарантии и возврате товара интернет магазина ТОП-ИТ"
+    },
+    {
+      "img": "./src/assets/img/icon4.svg",
+      "title": "Бонусная система",
+      "desc": "Бонусная система"
+    },
+    {
+      "img": "./src/assets/img/icon5.svg",
+      "title": "Помощь",
+      "desc": "Частые вопросы"
+    }
+  ]
+}
